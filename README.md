@@ -1,4 +1,4 @@
-📱 Smart Task Manager – Flutter Application
+## 📱 Smart Task Manager – Flutter Application
 
 ## 📝 Project Description
 Smart Task Manager is a Flutter-based mobile application designed to help users efficiently manage their daily tasks. The app provides secure authentication, a personalized dashboard, profile management, and complete task CRUD functionality with a clean and modern user interface focused on productivity.
@@ -69,7 +69,3 @@ The main goal of this project is to provide a simple, user-friendly, and visuall
 - **Firebase Authentication** – User login/signup  
 - **Cloud Firestore** – Task & user data storage  
 - **Material UI** – UI Components  
-
-## 🧱 Project Structure
-
-
