@@ -42,9 +42,9 @@ The main goal of this project is to provide a simple, user-friendly, and visuall
 
 ### 🔹 Authentication Screens
 <p float="left">
-  <img width="1160" height="2400" alt="1" src="https://github.com/user-attachments/assets/937ad079-3383-4ce9-ab85-f1a04fed6879" />
-  <img width="1160" height="2400" alt="2" src="https://github.com/user-attachments/assets/09ca0ef4-62e7-4a49-86c0-e0ca5ab4d6e4" />
-  <img width="1160" height="2400" alt="3" src="https://github.com/user-attachments/assets/11eae165-410b-4005-bffd-934dd45badc7" />
+  <img src="https://github.com/user-attachments/assets/937ad079-3383-4ce9-ab85-f1a04fed6879" width="30%" />
+  <img src="https://github.com/user-attachments/assets/09ca0ef4-62e7-4a49-86c0-e0ca5ab4d6e4" width="30%" />
+  <img src="https://github.com/user-attachments/assets/11eae165-410b-4005-bffd-934dd45badc7" width="30%" />
 </p>
 
 ### 🔹 Dashboard & Task Management
