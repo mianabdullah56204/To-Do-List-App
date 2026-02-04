@@ -1,4 +1,4 @@
-# 📱 Smart Task Manager – Flutter Application
+<img width="1160" height="2400" alt="4" src="https://github.com/user-attachments/assets/725a81d3-3ae4-45bd-bcff-29f7cdbe89f5" /># 📱 Smart Task Manager – Flutter Application
 
 ## 📝 Project Description
 Smart Task Manager is a Flutter-based mobile application designed to help users efficiently manage their daily tasks. The app provides secure authentication, a personalized dashboard, profile management, and complete task CRUD functionality with a clean and modern user interface focused on productivity.
@@ -49,16 +49,16 @@ The main goal of this project is to provide a simple, user-friendly, and visuall
 
 ### 🔹 Dashboard & Task Management
 <p float="left">
-  <img src="screenshots/dashboard.png" width="30%" />
-  <img src="screenshots/add_task.png" width="30%" />
-  <img src="screenshots/task_list.png" width="30%" />
+  <img src="https://github.com/user-attachments/assets/89425756-5584-47f7-8732-b18b71590b22" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4418a0c2-05fc-40db-855d-bfdfd9cc47c0" width="30%" />
+  <img src="https://github.com/user-attachments/assets/ab445bc0-eff7-4275-bcb3-649993bb8900" width="30%" />
 </p>
 
 ### 🔹 Profile & Dialogs
 <p float="left">
-  <img src="screenshots/profile_update.png" width="30%" />
-  <img src="screenshots/delete_dialog.png" width="30%" />
-  <img src="screenshots/clock_view.png" width="30%" />
+  <img src="https://github.com/user-attachments/assets/89425756-5584-47f7-8732-b18b71590b22" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4418a0c2-05fc-40db-855d-bfdfd9cc47c0" width="30%" />
+  <img src="https://github.com/user-attachments/assets/ab445bc0-eff7-4275-bcb3-649993bb8900" width="30%" />
 </p>
 
 > 📌 Note: Create a folder named `screenshots` in your project root and place all app images inside it using the same names.
@@ -71,3 +71,4 @@ The main goal of this project is to provide a simple, user-friendly, and visuall
 - **Material UI** – UI Components  
 
 ## 🧱 Project Structure
+
